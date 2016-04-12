@@ -1,0 +1,18 @@
+# =========================
+# Leiningen ignores
+# =========================
+pom.xml
+*jar
+/lib/
+/classes/
+/target/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+*.a2s
+*.wx64fsl
+*.cert
+*.acl2
+*.port
+model/.project
+.project
